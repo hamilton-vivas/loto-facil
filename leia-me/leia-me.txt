@@ -1,0 +1,21 @@
+*** SISTEMA LOTOFÁCIL ***
+
+-Sistema originado através de  Desenvolvimento de Projeto Orientado a Objetos, desenvolvido em cima de tuplas de resultados, que resultou algoritmo, conforme solicitação do usuário(meu amigo).
+- Gera números aleatórios baseado no último concurso que tem que estar cadastrado no banco de dados.
+- O script do banco na pasta 'script_banco' vai gerar as tabelas sqls no MySQL com os concursos cadastrados até concurso 2970 da Loto Fácil (Loteria Federal do Brasil) e mais os usuários:
+
+	Login: trindade
+	Senha: 1234
+
+	Login: marta
+	Senha: 1234
+
+- O sorteio feito pelo sistema verifica se já alguma vez foi sorteado o grupo de 15 dezenas (nunca foi repetido o sorteio da loto fácil na loteria da Caixa Ecônomica Federal).
+
+- O nome do banco a ser criado no MySQL é 'loto_facil'.
+
+==================================================
+$con = mysql_connect("localhost","root","") or die ("PROBLEMA NA CONEX�O");
+	    $db = mysql_select_db("loto_facil",$con)  or die("BANCO DE DADOS N�O ENCONTRADO");
+==================================================
+      

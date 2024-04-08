@@ -10,7 +10,7 @@
 	Login: marta
 	Senha: 1234
 
-- O sorteio feito pelo sistema verifica se já alguma vez foi sorteado o grupo de 15 dezenas (nunca foi repetido o sorteio da loto fácil na loteria da Caixa Ecônomica Federal).
+- O sorteio feito pelo sistema também verifica se já alguma vez foi sorteado o grupo de 15 dezenas (nunca foi repetido o sorteio da loto fácil na loteria da Caixa Ecônomica Federal).
 
 - O nome do banco a ser criado no MySQL é 'loto_facil'.
 

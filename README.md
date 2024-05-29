@@ -1,4 +1,4 @@
-# Projeto Loto-Fácil.
+# Projeto Loto-Fácil
 ## Sistema para geração de dezenas aleatórias
 - Projeto solicitado por um amigo para gerar dezenas aleatórias, baseado em um estudo feito por ele.
 - Para o estudo feito acima, criei um algoritmo e implementei em PHP.
@@ -31,7 +31,11 @@ script_banco/loto_facil.sql
 
 - Sistema Loto-Fácil
 
-[<img src="./sistema-loto.gif" alt="gif mostrando como importar um arquivo sql">]
+[<img src="./sistema-loto.gif" alt="gif mostrando o sistema loto-fácil">]
+
+- Análise do projeto orientado a objetos - Papel, lápis e borracha
+
+[<img src="./analise-projeto.jpg" alt="imagem mostrando a análise feita">]
 
 - O script do banco na pasta 'script_banco' vai gerar as tabelas sqls no MySQL com os concursos cadastrados até concurso 2970 da Loto Fácil (Loteria Federal do Brasil) e mais os usuários:
 

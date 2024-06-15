@@ -31,7 +31,7 @@ script_banco/loto_facil.sql
 
 - Sistema Loto-Fácil
 
-[<img src="./sistema-loto.gif" alt="gif mostrando o sistema loto-fácil">]
+[<img src="loto-facil.gif/" alt="gif mostrando o sistema loto-fácil">]
 
 - Análise do projeto orientado a objetos - Papel, lápis e borracha
 

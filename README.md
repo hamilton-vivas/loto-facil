@@ -37,7 +37,7 @@ script_banco/loto_facil.sql
 
 [<img src="./analise-projeto.jpg" alt="imagem mostrando a análise feita">]
 
-- O script do banco na pasta 'script_banco' vai gerar as tabelas sqls no MySQL com os concursos cadastrados até concurso 2970 da Loto Fácil (Loteria Federal do Brasil) e mais os usuários:
+- O script do banco na pasta 'script_banco' vai gerar as tabelas sqls no MySQL com os concursos cadastrados até concurso 3063 da Loto Fácil (Loteria Federal do Brasil) e mais os usuários:
 
 	Login: trindade
 	Senha: 1234
